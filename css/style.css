@@ -113,7 +113,7 @@ Page-Specific
 .hero {
     /* Add a background image for the hero section */
     /* Note: @Tiana Since this CSS file is nested in a folder, we have to include "../" to tell the link to back out to and start from the main directory */
-    background-image: url("../images/Outer-Space.png");
+    background-image: url("../images/Outer-space.png");
 
     /* Adjust image size to cover the entire section */
     background-size: cover;

@@ -112,7 +112,7 @@ Page-Specific
 /* PAGE: Home */
 .graphics {
     /* Optional: Add a background image for the hero section */
-    background-image: url("/images/thumbnail-graphic design butterfly.png");
+    background-image: url("images/thumbnail-graphic design butterfly.png");
 
     /* Optional: Make the image cover the entire section */
     background-size: cover;
@@ -132,7 +132,7 @@ Page-Specific
 
 .photovideo {
     /* Optional: Add a background image for the hero section */
-    background-image: url("/images/thumbnail-Photo\ Video.png");
+    background-image: url("images/thumbnail-Photo Video.png");
 
     /* Optional: Make the image cover the entire section */
     background-size: cover;

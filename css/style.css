@@ -110,6 +110,28 @@ h2 {
 Page-Specific
 **********************************/
 /* PAGE: Home */
+
+.hero {
+    /* Add a background image for the hero section */
+    background-image: url("images/Outer Space.png");
+
+    /* Adjust image size to cover the entire section */
+    background-size: cover;
+
+    /* Center the background image */
+    background-position: center;
+
+    /* Optional: Color text white */
+    color: var(--bs-white);
+
+    /* Optional: Add a full-height hero section */
+    height: 75vh;
+    /* Optional: Add necessary props to center the text in the middle of the hero */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .graphics {
     /* Optional: Add a background image for the hero section */
     background-image: url("images/thumbnail-graphic design butterfly.png");

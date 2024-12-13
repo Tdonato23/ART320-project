@@ -112,7 +112,7 @@ Page-Specific
 /* PAGE: Home */
 .hero {
     /* Add a background image for the hero section */
-    background-image: url("images/Outer\ Space.png");
+    background-image: url("../images/Outer-space.png");
 
     /* Adjust image size to cover the entire section */
     background-size: cover;

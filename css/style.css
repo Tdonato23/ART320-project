@@ -135,7 +135,7 @@ Page-Specific
 .graphics {
     /* Optional: Add a background image for the hero section */
     /* Note: @Tiana Since this CSS file is nested in a folder, we have to include "../" to tell the link to back out to and start from the main directory */
-    background-image: url("..images/thumbnail-graphic-design-butterfly.png");
+    background-image: url("../images/thumbnail-graphic-design-butterfly.png");
 
     /* Optional: Make the image cover the entire section */
     background-size: cover;
@@ -156,7 +156,7 @@ Page-Specific
 .photovideo {
     /* Optional: Add a background image for the hero section */
     /* Note: @Tiana Since this CSS file is nested in a folder, we have to include "../" to tell the link to back out to and start from the main directory */
-    background-image: url("..images/thumbnail-Photo-Video.png");
+    background-image: url("../images/thumbnail-Photo-Video.png");
 
     /* Optional: Make the image cover the entire section */
     background-size: cover;
